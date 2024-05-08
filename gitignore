@@ -7,7 +7,7 @@ bin-release/
 # Other files and folders
 .settings/
 archivoignore.txt
-directorioignore/
+directorioignorado/
 
 # Executables
 *.swf
