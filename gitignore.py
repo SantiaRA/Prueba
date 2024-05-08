@@ -6,13 +6,15 @@ bin-release/
 
 # Other files and folders
 .settings/
+archivoignore.txt
+directorioignore/
 
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
-
+*.txt
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
